@@ -1,4 +1,16 @@
-##Description  
+===  LearnPress BuddyPress - WordPress add-on for LearnPress LMS plugin ===  
+Contributors: thimpress, kendy73, tunnhn  
+Donate link:  
+Tags: lms, elearning, e-learning, learning management system, education, course, courses, quiz, quizzes, questions, training, guru, sell courses  
+Requires at least: 3.8  
+Tested up to: 4.2.2  
+Stable tag: trunk  
+License: GPLv2 or later  
+License URI: http://www.gnu.org/licenses/gpl-2.0.html  
+
+LearnPress buddyPress bring wonderful profile page for LearnPress.
+
+== Description ==  
 
 You can view the courses you have taken, finished or wanted to learn inside of wonderful profile page of BuddyPress with LearnPress buddyPress plugin.  
 
@@ -18,22 +30,34 @@ You can view the courses you have taken, finished or wanted to learn inside of w
 - <a href="http://thimpress.com/shop/stripe-add-on-for-learnpress/"  target="_blank">Stripe Payment method for LearnPress</a> - Stripe payment method for LearnPress WordPress LMS Plugin.  
 - <a href="http://thimpress.com/shop/woocommerce-add-on-for-learnpress/"  target="_blank">WooCommerce add-on for LearnPress</a> - using WooCommerce as payment gateway for LearnPrss WordPress LMS Plugin.  
 
-##Installation
+== Installation ==  
 
 **From your WordPress dashboard**    
 1. Visit 'Plugin > Add new'.  
-2. Search for *LearnPress BuddyPress*.  
-3. Activate *LearnPress BuddyPress* from your Plugins page.  
+2. Search for 'LearnPress buddyPress'.  
+3. Activate LearnPress from your Plugins page.  
 
 **From WordPress.org**  
-1. Search, select and download *LearnPress BuddyPress*.  
+1. Search, select and download LearnPress buddyPress.  
 2. Activate the plugin through the 'Plugins' menu in WordPress Dashboard.  
 
-##Frequently Asked Questions
+== Frequently Asked Questions ==  
 
-**Can I create an add-on for LearnPress like *LearnPress BuddyPress* by myself?**  
-Yes, you can. Please find the documentation for writing an add-on for LearnPress in our <a href="https://github.com/LearnPress/LearnPress/wiki" target>LearnPress github repo.</a>  
+= Can I create an add-on for LearnPress like LearnPress buddyPress by myself? =  
+Yes, you can. Please find the documentation for writing an add-on for LearnPress in our <a href="https://github.com/LearnPress/LearnPress/wiki" target>LearnPress github repo.</a>
 
-##Other note
+== Screenshots ==  
+
+1. LearnPress bbPress screenshot
+
+== Changelog ==
+
+= 0.9.0 =  
+The first beta release.
+
+== Upgrade Notice ==  
+Later :)
+
+== Other note ==  
 <a href="http://docs.thimpress.com/learnpress" target="_blank">Documentation</a> is available in ThimPress site.  
 <a href="https://github.com/LearnPress/LearnPress/" target="_blank">LearnPress github repo.</a>
