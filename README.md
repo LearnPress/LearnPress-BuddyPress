@@ -1,10 +1,10 @@
 ##Description  
 
-You can view the courses you have taken, finished or wanted to learn inside of wonderful profile page of BuddyPress with LearnPress buddyPress plugin.  
+You can view the courses you have taken, finished or wanted to learn inside of wonderful profile page of BuddyPress with **LearnPress buddyPress** plugin.  
 
 **Other free add-ons for LearnPress are available in WordPress:**  
 
-- <a href="https://wordpress.org/plugins/learnpress-wishlist/" target="_blank">Wishlist</a> - add courses to a wishlist for students.  
+- <a href="https://wordpress.org/plugins/learnpress-wishlist/" target="_blank">LearnPress Wishlist</a> - add courses to a wishlist for students.  
 - <a href="https://wordpress.org/plugins/learnpress-course-review/" target="_blank">LearnPress Course Review</a> - review course for enrolled students.  
 - <a href="https://wordpress.org/plugins/learnpress-import-export/" target="_blank">LearnPress Import Export</a> - export or import course or courses out-of-box.  
 - <a href="https://wordpress.org/plugins/learnpress-prerequisites-courses/" target="_blank">LearnPress Prerequisites Courses</a> - require student to pass some courses in order to enroll other course.  
